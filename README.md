@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Inez Jimenez!
 - 👀 I’m interested in ... architecure, music, and traveling.
-- 🌱 I’m currently learning ... react and communication design.
-- 💞️ I’m looking to collaborate on ...  projects that are unique and innovated.
+- 🌱 I’m currently learning ... visual communication design.
+- 💞️ I’m looking to collaborate on ...  projects that are helping to build communities.
 - 📫 How to reach me ... Please feel free to email me at ijim9182@yahoo.com
 
 <!---
